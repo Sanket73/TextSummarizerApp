@@ -48,3 +48,16 @@ Make NLP accessible through a simple web interface
 3. Tokenizer converts text → tokens
 4. T5 model generates summary using beam search
 5. Output tokens are decoded into readable summary
+
+# Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/text-summarizer.git
+cd text-summarizer
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run the Application
+uvicorn app:app --reload
+4️⃣ Open in Browser
+http://localhost:8000
+
+Paste your text and click **Summarize**
