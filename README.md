@@ -51,7 +51,7 @@ Make NLP accessible through a simple web interface
 
 # Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/text-summarizer.git
+git clone https://github.com/Sanket73/text-summarizer.git
 cd text-summarizer
 2. Install Dependencies
 pip install -r requirements.txt
