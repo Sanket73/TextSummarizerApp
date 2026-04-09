@@ -61,3 +61,6 @@ uvicorn app:app --reload
 http://localhost:8000
 
 Paste your text and click **Summarize**
+
+# Demo
+https://github.com/user-attachments/assets/32ecc5df-39bb-49e5-a6e7-ea090d942bd2
