@@ -38,8 +38,11 @@ Make NLP accessible through a simple web interface
 **Decoding Strategy:** Beam Search
 * num_beams = 4
 * early_stopping = True
+
 **Input Limit:** 512 tokens
+  
 **Output Limit:** 150 tokens
+
 **Model Path:** ./saved_summary_model/
 
 # How It Works
@@ -62,5 +65,5 @@ http://localhost:8000
 
 Paste your text and click **Summarize**
 
-# Demo
+## 🎥 TextSummarizer in Action
 https://github.com/user-attachments/assets/32ecc5df-39bb-49e5-a6e7-ea090d942bd2
