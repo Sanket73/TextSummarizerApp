@@ -63,7 +63,9 @@ uvicorn app:app --reload
 4. Open in Browser
 http://localhost:8000
 
-Paste your text and click **Summarize**
+## Project Architecture Diagram
+
+![Summarizer-HF Architecture](https://github.com/Sanket73/TextSummarizerApp/blob/main/Image.png?raw=true)
 
 ## 🎥 TextSummarizer in Action
 https://github.com/user-attachments/assets/32ecc5df-39bb-49e5-a6e7-ea090d942bd2
