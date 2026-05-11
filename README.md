@@ -98,3 +98,18 @@ https://github.com/user-attachments/assets/32ecc5df-39bb-49e5-a6e7-ea090d942bd2
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+Future Improvements
+Add multiple summarization styles:
+
+Short Summary (2–3 lines)
+Detailed Summary
+Bullet Points
+Key Highlights
+Support multiple models (T5, BART, Pegasus)
+Adjustable summary length (user control slider)
+File upload support (.txt, .pdf)
+Multilingual summarization
+Docker containerization for deployment
+Add evaluation metrics (ROUGE scores)
+Interactive API docs (Swagger UI improvements)
