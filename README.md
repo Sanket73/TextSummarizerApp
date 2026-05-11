@@ -102,14 +102,23 @@ https://github.com/user-attachments/assets/32ecc5df-39bb-49e5-a6e7-ea090d942bd2
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 # Future Improvements
-* Support multiple models (T5, BART, Pegasus)
-* Adjustable summary length (user control slider)
-* File upload support (.txt, .pdf)
-* Multilingual summarization
-* Docker containerization for deployment
-* Add evaluation metrics (ROUGE scores)
-* Interactive API docs (Swagger UI improvements)
 
+Add multiple summarization styles:
+
+* Short Summary (2–3 lines)
+* Detailed Summary
+* Bullet Points
+* Key Highlights
+
+1. Support multiple models (T5, BART, Pegasus)
+2. Adjustable summary length (user control slider)
+3. File upload support (.txt, .pdf)
+4. Multilingual summarization
+5. Docker containerization for deployment
+6. Add evaluation metrics (ROUGE scores)
+7. Interactive API docs (Swagger UI improvements)
+
+## This makes your app more useful for different users (students, professionals, etc.)
 
 # Conclusion
 
@@ -120,18 +129,6 @@ Backend deployment (FastAPI)
 Frontend integration (Web UI)
 
 It bridges the gap between AI research and real-world application, making powerful NLP models accessible through a simple browser interface.
-
-# Best Feature Improvements
-1. Smart Summary Modes (Very High Impact)
-
-Add multiple summarization styles:
-
-* Short Summary (2–3 lines)
-* Detailed Summary
-* Bullet Points
-* Key Highlights
-
-## This makes your app more useful for different users (students, professionals, etc.)
 
 # Author
 
