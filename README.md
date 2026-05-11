@@ -121,6 +121,18 @@ Frontend integration (Web UI)
 
 It bridges the gap between AI research and real-world application, making powerful NLP models accessible through a simple browser interface.
 
+# Best Feature Improvements
+1. Smart Summary Modes (Very High Impact)
+
+Add multiple summarization styles:
+
+* Short Summary (2–3 lines)
+* Detailed Summary
+* Bullet Points
+* Key Highlights
+
+## This makes your app more useful for different users (students, professionals, etc.)
+
 # Author
 
 Sanket Dongardive
